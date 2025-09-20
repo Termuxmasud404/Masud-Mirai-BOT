@@ -1,0 +1,14 @@
+{
+  "name": "masud-mirai-bot",
+  "version": "1.0.0",
+  "description": "Professional Mirai-style Messenger bot scaffold (Masud)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Masud",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
