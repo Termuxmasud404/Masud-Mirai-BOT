@@ -1,0 +1,13 @@
+{
+  "prefix": "!",
+  "owner": "100000119417239",
+  "admins": [
+    "100000119417239"
+  ],
+  "currencyName": "Coin",
+  "startingBalance": 100,
+  "fbstatePath": "./fbstate.json",
+  "antiLink": true,
+  "dailyReward": 50,
+  "cooldownSeconds": 3
+}
